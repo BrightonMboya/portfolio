@@ -17,14 +17,14 @@ const About = () => {
             <p>Hello Again, It's Brighton. Get a chance to know me a lil bit</p>
           </div>
           <div>
-            <p className="text-lg md:leading-loose">
+            <p>
               Brighton is Software Engineer who leverages tech to build
               solutions for users and help solve business problems. Currently
               pursuing a bachelor degree in Computer Science at the African
               Leadership University. Outside work, he loves jamming along with
-              Blues and Pop music on Piano. And yeah, he loves hosting, we can
-              set up a brunch and discuss a thing or two. Feel free to reach out
-              if you want to grab a brunch.
+              Blues and Pop music on Piano. And yeah, he loves hosting, we can set up a brunch
+              and discuss a thing or two. Feel free to reach out if you want to
+              grab a brunch.
             </p>
           </div>
         </div>

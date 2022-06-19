@@ -17,7 +17,7 @@ const About = () => {
             <p>Hello Again, It's Brighton. Get a chance to know me a lil bit</p>
           </div>
           <div>
-            <p className="text-lg md:leading-loose">
+            <p className="text-lg">
               Brighton is Software Engineer who leverages tech to build
               solutions for users and help solve business problems. Currently
               pursuing a bachelor degree in Computer Science at the African

@@ -55,8 +55,8 @@ const Work = () => {
             src={shamba}
             className="max-w-sm border-white border-2 rounded-lg"
           />
-          <div className="md:ml-[40px] md:max-w-lg">
-            <h3 className="mt-[30px] text-lg md:mt-0">
+          <div>
+            <h3 className="md:ml-[40px] mt-[30px] text-lg">
               I worked at Shamba Data as a web developer. My work included
               designing and Implementitng the companies website and also
               documenting the code for the company's future use.
@@ -77,8 +77,8 @@ const Work = () => {
             src={reddit}
             className="max-w-sm border-white border-2 rounded-lg"
           />
-          <div className="md:ml-[40px] md:max-w-lg">
-            <h3 className="mt-[30px] text-lg md:mt-0">
+          <div>
+            <h3 className="md:ml-[40px] mt-[30px] text-lg">
               Build a reddit clone that allows users to post, delete, and update
               their posts, comments and votes.
             </h3>

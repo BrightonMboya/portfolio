@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto px-8 justify-center h-full flex flex-col">
-        <p className="text-pink-600 text-lg lg:text-xl">Hi, my name is</p>
+        <p className="text-pink-600 text-lg lg:text0-xl">Hi, my name is</p>
         <h1 className="text-[#ccd6f6] text-4xl font-bold sm:text-7xl">
           Brighton Mboya
         </h1>
